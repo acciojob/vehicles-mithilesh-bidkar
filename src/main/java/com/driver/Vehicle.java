@@ -51,6 +51,6 @@ public class Vehicle {
     }
 
     public String getName() {
-        return name;
+        return this.name;
     }
 }
